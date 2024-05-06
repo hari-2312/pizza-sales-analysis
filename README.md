@@ -1,8 +1,8 @@
-Creating a Power BI project to analyze pizza sales can be a fun and insightful endeavor. Here's a step-by-step guide to get you started:
+
 
 1. Data Collection:
-   - Gather data on pizza sales from your business records. This might include information like sales date, pizza type, toppings, quantity sold, price, customer demographics, etc.
-   - Ensure your data is in a structured format such as Excel, CSV, or a database.
+   - Gather data on pizza sales from outsource. This might include information like sales date, pizza type, toppings, quantity sold, price, customer demographics, etc.
+   
 
 2. Data Import:
    - Open Power BI Desktop.
